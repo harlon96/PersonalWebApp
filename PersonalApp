@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width ">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="script.js"></script>
+</head>
+
+<style>
+    body {
+        background-image: url("https://www.itl.cat/pngfile/big/4-42609_matrix-animated-gif-free-wallpaper-download-matrix-gif.jpg");
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    h1 {
+        font-size: large;
+        text-align: center;
+    }
+    
+    ul {
+        list-style: none;
+        padding: 0;
+        text-align: center;
+    }
+    
+    li {
+        margin: 20px;
+        padding: 0px;
+        float: left;
+    }
+    
+    h1 {
+        color: bisque;
+    }
+    
+    a:hover {
+        opacity: 65%;
+    }
+    
+    h1:hover {
+        opacity: 65%;
+    }
+    
+    .material-icons {
+        background-image: url("Matrix-PNG-File.png");
+        border-radius: 10px;
+        color: bisque;
+        font-size: 50px;
+    }
+    
+    li p {
+        border-radius: 30px;
+        font-size: small;
+    }
+    
+    a {
+        width: 70px;
+        height: 120px;
+        display: flexbox;
+        padding: 0;
+        color: bisque;
+        text-decoration: none;
+    }
+</style>
+
+<html>
+<header>
+
+    <title>Personal Apps</title>
+
+</header>
+
+<h1 onclick="speak()">Personal Apps</h1>
+
+<main>
+    <ul>
+        <li>
+            <a href="https://google.com/">
+                <i class="material-icons">menu</i>
+                <p>Google</p>
+            </a>
+        </li>
+        <li>
+            <a href="sms:?body=">
+                <i class="material-icons">menu</i>
+                <p>Text</p>
+            </a>
+        </li>
+        <li>
+            <a href="tel:+">
+                <i class="material-icons">menu</i>
+                <p>Call</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/Harlon96">
+                <i class="material-icons">menu</i>
+                <p>Github</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.python.org/">
+                <i class="material-icons">menu</i>
+                <p>Python</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://codehtml.online/#editor">
+                <i class="material-icons">menu</i>
+                <p>Html5</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.truepeoplesearch.com/reverse-phone-lookup">
+                <i class="material-icons">menu</i>
+                <p>Reverse#</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://services.flhsmv.gov/dlcheck/">
+                <i class="material-icons">menu</i>
+                <p>Driver License</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://hutlinkcontent.yum.com/">
+                <i class="material-icons">menu</i>
+                <p>HutLink</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.whois.com/whois/">
+                <i class="material-icons">menu</i>
+                <p>Whois</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://play.golang.org/">
+                <i class="material-icons">menu</i>
+                <p>Golang</p>
+            </a>
+        </li>
+        <li>
+            <a href="https://infotracer.com/reverse-ip-lookup/nohit/">
+                <i class="material-icons">menu</i>
+                <p>InfoTracer</p>
+            </a>
+        </li>
+    </ul>
+</main>
+
+</html>
