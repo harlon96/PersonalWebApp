@@ -10,7 +10,7 @@
 
 <style>
     body {
-        background-image: url("https://www.itl.cat/pngfile/big/4-42609_matrix-animated-gif-free-wallpaper-download-matrix-gif.jpg");
+        background-image: url("https://www.pixelstalk.net/wp-content/uploads/2026/08/magic-the-gathering-wallpaper-mystical-hooded-figure.jpg");
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
     
@@ -44,7 +44,7 @@
     }
     
     .material-icons {
-        background-image: url("Matrix-PNG-File.png");
+        background-image: url("mystical-hooded-figure.jpg");
         border-radius: 10px;
         color: bisque;
         font-size: 50px;
@@ -64,28 +64,30 @@
         text-decoration: none;
     }
 </style>
+    
+     <script>
+            function speak() {
+    var voice = new SpeechSynthesisUtterance();
+    voice.text = "This is online server x.";
+    speechSynthesis.speak(voice);
+            }
+    </script>
 
 <html>
 <header>
 
-    <title>Personal Apps</title>
+    <title>Online_ServerX</title>
 
 </header>
 
-<h1 onclick="speak()">Personal Apps</h1>
+<h1 onclick="speak()">Online_ServerX</h1>
 
 <main>
     <ul>
         <li>
-            <a href="https://google.com/">
+            <a href="https://online.adp.com/signin/v1/?APPID=RDBX&productId=80e309c3-70c6-bae1-e053-3505430b5495&returnURL=https://my.adp.com/&callingAppId=RDBX&REASON=ERROR_TIMEOUT">
                 <i class="material-icons">menu</i>
-                <p>Google</p>
-            </a>
-        </li>
-        <li>
-            <a href="sms:?body=">
-                <i class="material-icons">menu</i>
-                <p>Text</p>
+                <p>ADP</p>
             </a>
         </li>
         <li>
@@ -101,53 +103,60 @@
             </a>
         </li>
         <li>
-            <a href="https://www.python.org/">
+            <a href="https://www.linkedin.com/in/harlon-hutchison-6a368635a/?isSelfProfile=true">
                 <i class="material-icons">menu</i>
-                <p>Python</p>
+                <p>LinkedIn</p>
             </a>
-        </li>
+        </li> 
         <li>
-            <a href="https://codehtml.online/#editor">
+            <a href="https://www.pandora.com/station/play/2997686056621330802">
                 <i class="material-icons">menu</i>
-                <p>Html5</p>
+                <p>Pandora</p>
             </a>
         </li>
         <li>
             <a href="https://www.truepeoplesearch.com/reverse-phone-lookup">
                 <i class="material-icons">menu</i>
-                <p>Reverse#</p>
+                <p>True_Search</p>
+            </a>
+        </li>
+         <li>
+            <a href="https://www.freecarrierlookup.com/">
+                <i class="material-icons">menu</i>
+                <p>Free_l_up</p>
             </a>
         </li>
         <li>
-            <a href="https://services.flhsmv.gov/dlcheck/">
+            <a href="https://go.dev/">
                 <i class="material-icons">menu</i>
-                <p>Driver License</p>
+                <p>go_lang</p>
             </a>
         </li>
         <li>
-            <a href="https://hutlinkcontent.yum.com/">
+            <a href="https://onecompiler.com/html">
                 <i class="material-icons">menu</i>
-                <p>HutLink</p>
+                <p>html</p>
             </a>
         </li>
         <li>
-            <a href="https://www.whois.com/whois/">
+            <a href="https://datastudio.google.com/navigation/reporting">
                 <i class="material-icons">menu</i>
-                <p>Whois</p>
+                <p>Looker_Studio</p>
             </a>
         </li>
         <li>
-            <a href="https://play.golang.org/">
+            <a href="https://www.whatsapp.com/">
                 <i class="material-icons">menu</i>
-                <p>Golang</p>
+                <p>Whats_App</p>
             </a>
         </li>
         <li>
-            <a href="https://infotracer.com/reverse-ip-lookup/nohit/">
+            <a href="https://python.org/">
                 <i class="material-icons">menu</i>
-                <p>InfoTracer</p>
+                <p>python</p>
             </a>
         </li>
+        
     </ul>
 </main>
 
