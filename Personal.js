@@ -1,4 +1,4 @@
-// You can code JavaScript here
+// This is optional. I added this code to the personal.html page.
 
 function speak() {
     var voice = new SpeechSynthesisUtterance();
